@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="4.5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../tilab/jade/jade/4.5.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../tilab/jade/jade/4.5.0" recursive="false" />
+  </library>
+</component>
